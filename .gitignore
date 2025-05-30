@@ -1,0 +1,15 @@
+# for virtual env
+/work 
+.env
+myvenv/
+venv/
+
+/datasets
+summarisation/glove.6B/
+test.py
+test/
+
+# python 
+__pycache__
+
+.spyproject
